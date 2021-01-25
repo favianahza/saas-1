@@ -143,7 +143,7 @@ session_start();
 		<center><img src="img/circle-cropped.png" style="width: 250px;" class="my-2"></center>
 
 	<p class="lead text-center" id="title">Sistem Informatika Jaringan dan Aplikasi</p>
-
+	
 	<hr class="col-4">
 
 </div>
@@ -160,7 +160,7 @@ session_start();
 
   <!-- Copyright -->
 
-  <div class="footer-copyright text-center py-3">Created by Favian Ahza ©2019
+  <div class="footer-copyright text-center py-3">Created by Favian Ahza ©2019 $(hostname)
 
     
 
